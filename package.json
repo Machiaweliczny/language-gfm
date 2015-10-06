@@ -1,15 +1,14 @@
 {
-  "name": "language-gfm",
+  "name": "language-slim-angular",
   "version": "0.81.0",
-  "description": "Syntax highlighting and snippets for GitHub Flavored Markdown (GFM).",
-  "repository": "https://github.com/atom/language-gfm",
+  "description": "Syntax highlighting and snippets for Slim with AngularJS",
+  "repository": "https://github.com/machiaweliczny/language-gfm",
   "license": "MIT",
   "engines": {
     "atom": "*"
   },
   "devDependencies": {
     "coffee-script": "1.7.0",
-    "coffeelint": "^1.10.1",
     "request": "^2.34.0",
     "season": "^5.0.2",
     "underscore-plus": "^1.0.6"
